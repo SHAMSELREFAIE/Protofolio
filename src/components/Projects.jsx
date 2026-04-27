@@ -6,7 +6,7 @@ const projects = [
   {
     title: 'Egypt Through The Ages',
     description: 'An interactive web experience showcasing the rich history of Egypt from ancient civilizations to modern times. Features beautiful visuals and engaging storytelling.',
-    image: '/egypt-project.jpg',
+    image: 'https://i.pinimg.com/1200x/3c/bd/13/3cbd13bbc3bfc8a2288befed60953838.jpg',
     tags: ['HTML', 'CSS', 'JavaScript'],
     liveUrl: '#',
     githubUrl: '#',
@@ -24,7 +24,7 @@ const projects = [
   {
     title: 'TraiBlaze',
     description: 'A travel exploration platform that helps users discover new destinations. Features interactive maps, itinerary planning, and travel guides.',
-    image: '/traiblaze-project.jpg',
+    image: 'https://i.pinimg.com/webp85/736x/17/47/53/174753ef051b3d126a442ca7d6f43d7c.webp',
     tags: ['React', 'CSS', 'JavaScript'],
     liveUrl: 'https://shamselrefaie.github.io/TRAIBLAZE/',
     githubUrl: 'https://github.com/SHAMSELREFAIE/TRAIBLAZE',
