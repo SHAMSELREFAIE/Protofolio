@@ -6,7 +6,7 @@ const projects = [
   {
     title: 'Egypt Through The Ages',
     description: 'An interactive web experience showcasing the rich history of Egypt from ancient civilizations to modern times. Features beautiful visuals and engaging storytelling.',
-    image: 'https://i.pinimg.com/1200x/3c/bd/13/3cbd13bbc3bfc8a2288befed60953838.jpg',
+    image: 'https://plus.unsplash.com/premium_photo-1728561809541-1620be0f4004?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     tags: ['HTML', 'CSS', 'JavaScript'],
     liveUrl: '#',
     githubUrl: '#',
@@ -24,7 +24,7 @@ const projects = [
   {
     title: 'TraiBlaze',
     description: 'A travel exploration platform that helps users discover new destinations. Features interactive maps, itinerary planning, and travel guides.',
-    image: 'https://i.pinimg.com/webp85/736x/17/47/53/174753ef051b3d126a442ca7d6f43d7c.webp',
+    image: 'https://images.unsplash.com/photo-1530789253388-582c481c54b0?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dHJhdmVsJTIwZXhwbG9yYXRpb258ZW58MHx8MHx8fDA%3D',
     tags: ['React', 'CSS', 'JavaScript'],
     liveUrl: 'https://shamselrefaie.github.io/TRAIBLAZE/',
     githubUrl: 'https://github.com/SHAMSELREFAIE/TRAIBLAZE',
