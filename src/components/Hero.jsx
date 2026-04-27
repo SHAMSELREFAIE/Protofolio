@@ -125,7 +125,7 @@ function Hero() {
               >
                 <div className="w-full h-full rounded-full overflow-hidden border-4 border-white/10 shadow-2xl shadow-accent-primary/20">
                   <img
-                    src="/cv.png"
+                    src="./cv.png"
                     alt="Shams Mohammed"
                     className="w-full h-full object-cover"
                   />
