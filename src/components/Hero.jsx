@@ -125,7 +125,7 @@ function Hero() {
               >
                 <div className="w-full h-full rounded-full overflow-hidden border-4 border-white/10 shadow-2xl shadow-accent-primary/20">
                   <img
-                    src="https://shamselrefaie.github.io/Protofolio/cv.png"
+                   src={import.meta.env.BASE_URL + "cv.png"} 
                     alt="Shams Mohammed"
                     className="w-full h-full object-cover"
                   />
