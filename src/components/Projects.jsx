@@ -6,10 +6,10 @@ const projects = [
   {
     title: 'Egypt Through The Ages',
     description: 'An interactive web experience showcasing the rich history of Egypt from ancient civilizations to modern times. Features beautiful visuals and engaging storytelling.',
-    image: 'https://plus.unsplash.com/premium_photo-1728561809541-1620be0f4004?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    image: 'https://plus.unsplash.com/premium_photo-1699537318938-7af01500c359?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     tags: ['HTML', 'CSS', 'JavaScript'],
-    liveUrl: '#',
-    githubUrl: '#',
+    liveUrl: 'https://shamselrefaie.github.io/Egypt-through-the-ages/',
+    githubUrl: 'https://github.com/SHAMSELREFAIE/Egypt-through-the-ages',
     color: '#f59e0b',
   },
   {
